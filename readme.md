@@ -1,2 +1,2 @@
 #flappy-bird
-![gif](gif/flappy_bird.gif)
+![gif](gif/flappy.gif)
